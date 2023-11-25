@@ -21,7 +21,7 @@ header.header img {
 }
 
 section.top-page{ 
-background: url('../Images/mur-carrelage-metro-blanc-1500-300-museumtextures.com-1310231542.jpg');    
+background: url('..mur-carrelage-metro-blanc-1500-300-museumtextures.com-1310231542.jpg');    
 background-size: cover;
 height: 80vh;
 }
