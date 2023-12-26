@@ -38,7 +38,7 @@ section.landing-page {
 
 section.title1 {
     color: rgb(219, 218, 218);
-    background-color: rgb(255, 0, 0);
+    background-color: none;
     font-size: 80px;
     padding: 20px 50px;
 }
